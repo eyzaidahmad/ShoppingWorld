@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/khanzaid2490/SpeechToTextApiDemo/SpeechToTextApiDemo1/SpeechToTextApiDemo1.csproj": {}
+  },
+  "projects": {
+    "/home/khanzaid2490/SpeechToTextApiDemo/SpeechToTextApiDemo1/SpeechToTextApiDemo1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/khanzaid2490/SpeechToTextApiDemo/SpeechToTextApiDemo1/SpeechToTextApiDemo1.csproj",
+        "projectName": "SpeechToTextApiDemo1",
+        "projectPath": "/home/khanzaid2490/SpeechToTextApiDemo/SpeechToTextApiDemo1/SpeechToTextApiDemo1.csproj",
+        "packagesPath": "/home/khanzaid2490/.nuget/packages/",
+        "outputPath": "/home/khanzaid2490/SpeechToTextApiDemo/SpeechToTextApiDemo1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/khanzaid2490/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

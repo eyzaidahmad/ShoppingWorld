@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\zaid\\Jarvi\\MyConsoleApp\\ShoppingWorld\\ShoppingWorld.csproj": {}
+  },
+  "projects": {
+    "C:\\zaid\\Jarvi\\MyConsoleApp\\ShoppingWorld\\ShoppingWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\zaid\\Jarvi\\MyConsoleApp\\ShoppingWorld\\ShoppingWorld.csproj",
+        "projectName": "ShoppingWorld",
+        "projectPath": "C:\\zaid\\Jarvi\\MyConsoleApp\\ShoppingWorld\\ShoppingWorld.csproj",
+        "packagesPath": "C:\\Users\\zaid1.khan\\.nuget\\packages\\",
+        "outputPath": "C:\\zaid\\Jarvi\\MyConsoleApp\\ShoppingWorld\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zaid1.khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Bootstrap.Wpf": {
+              "target": "Package",
+              "version": "[0.0.9, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.Security.Principal": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

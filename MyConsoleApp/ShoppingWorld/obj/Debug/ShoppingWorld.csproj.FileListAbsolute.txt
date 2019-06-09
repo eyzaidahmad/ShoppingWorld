@@ -1,0 +1,46 @@
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\bin\Debug\ShoppingWorld.exe.config
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\bin\Debug\ShoppingWorld.exe
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\bin\Debug\ShoppingWorld.pdb
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csprojAssemblyReference.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\MainWindow.g.cs
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\App.g.cs
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld_MarkupCompile.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld_MarkupCompile.lref
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\MainWindow.baml
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.g.resources
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.Properties.Resources.resources
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csproj.GenerateResource.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csproj.CoreCompileInputs.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.exe
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.pdb
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\App.baml
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\Default.baml
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\PlaceHolder.baml
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\bin\Debug\System.Security.Claims.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csproj.CopyComplete
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\bin\Debug\EntityFramework.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\ShoppingWorld\bin\Debug\WPF.Bootstrap.dll
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\bin\Debug\ShoppingWorld.exe.config
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\bin\Debug\ShoppingWorld.exe
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\bin\Debug\ShoppingWorld.pdb
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\bin\Debug\WPF.Bootstrap.dll
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\bin\Debug\EntityFramework.SqlServer.dll
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\bin\Debug\EntityFramework.dll
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\bin\Debug\System.Security.Claims.dll
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csprojAssemblyReference.cache
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\MainWindow.g.cs
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\App.g.cs
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld_MarkupCompile.cache
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld_MarkupCompile.lref
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\App.baml
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\Default.baml
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\MainWindow.baml
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\PlaceHolder.baml
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.g.resources
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.Properties.Resources.resources
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csproj.GenerateResource.cache
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csproj.CoreCompileInputs.cache
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.csproj.CopyComplete
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.exe
+C:\zaid\Jarvi\MyConsoleApp\ShoppingWorld\obj\Debug\ShoppingWorld.pdb

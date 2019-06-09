@@ -1,0 +1,22 @@
+/home/khanzaid2490/ZaidSpeechToTextAPI/bin/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.deps.json
+/home/khanzaid2490/ZaidSpeechToTextAPI/bin/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.runtimeconfig.json
+/home/khanzaid2490/ZaidSpeechToTextAPI/bin/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.runtimeconfig.dev.json
+/home/khanzaid2490/ZaidSpeechToTextAPI/bin/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.dll
+/home/khanzaid2490/ZaidSpeechToTextAPI/bin/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.pdb
+/home/khanzaid2490/ZaidSpeechToTextAPI/obj/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.csprojAssemblyReference.cache
+/home/khanzaid2490/ZaidSpeechToTextAPI/obj/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.csproj.CoreCompileInputs.cache
+/home/khanzaid2490/ZaidSpeechToTextAPI/obj/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.AssemblyInfoInputs.cache
+/home/khanzaid2490/ZaidSpeechToTextAPI/obj/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.AssemblyInfo.cs
+/home/khanzaid2490/ZaidSpeechToTextAPI/obj/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.dll
+/home/khanzaid2490/ZaidSpeechToTextAPI/obj/Debug/netcoreapp2.1/ZaidSpeechToTextAPI.pdb
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\bin\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.deps.json
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\bin\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.runtimeconfig.json
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\bin\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.runtimeconfig.dev.json
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\bin\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\bin\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.pdb
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\obj\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.csprojAssemblyReference.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\obj\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.csproj.CoreCompileInputs.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\obj\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.AssemblyInfoInputs.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\obj\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.AssemblyInfo.cs
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\obj\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\ZaidSpeechToTextAPI\obj\Debug\netcoreapp2.1\ZaidSpeechToTextAPI.pdb

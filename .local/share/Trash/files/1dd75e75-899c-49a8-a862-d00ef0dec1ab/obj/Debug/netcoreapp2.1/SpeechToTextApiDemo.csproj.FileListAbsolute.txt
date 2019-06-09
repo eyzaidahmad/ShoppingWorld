@@ -1,0 +1,11 @@
+/home/khanzaid2490/SpeechToTextApiDemo/obj/Debug/netcoreapp2.1/SpeechToTextApiDemo.csprojAssemblyReference.cache
+/home/khanzaid2490/SpeechToTextApiDemo/obj/Debug/netcoreapp2.1/SpeechToTextApiDemo.csproj.CoreCompileInputs.cache
+/home/khanzaid2490/SpeechToTextApiDemo/obj/Debug/netcoreapp2.1/SpeechToTextApiDemo.AssemblyInfoInputs.cache
+/home/khanzaid2490/SpeechToTextApiDemo/obj/Debug/netcoreapp2.1/SpeechToTextApiDemo.AssemblyInfo.cs
+/home/khanzaid2490/SpeechToTextApiDemo/bin/Debug/netcoreapp2.1/SpeechToTextApiDemo.deps.json
+/home/khanzaid2490/SpeechToTextApiDemo/bin/Debug/netcoreapp2.1/SpeechToTextApiDemo.runtimeconfig.json
+/home/khanzaid2490/SpeechToTextApiDemo/bin/Debug/netcoreapp2.1/SpeechToTextApiDemo.runtimeconfig.dev.json
+/home/khanzaid2490/SpeechToTextApiDemo/bin/Debug/netcoreapp2.1/SpeechToTextApiDemo.dll
+/home/khanzaid2490/SpeechToTextApiDemo/bin/Debug/netcoreapp2.1/SpeechToTextApiDemo.pdb
+/home/khanzaid2490/SpeechToTextApiDemo/obj/Debug/netcoreapp2.1/SpeechToTextApiDemo.dll
+/home/khanzaid2490/SpeechToTextApiDemo/obj/Debug/netcoreapp2.1/SpeechToTextApiDemo.pdb

@@ -1,0 +1,11 @@
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\bin\Debug\WavPlayer.exe
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\bin\Debug\WavPlayer.pdb
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\bin\Debug\LumiSoft.Net.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\bin\Debug\LumiSoft.Net.xml
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.csprojAssemblyReference.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.Properties.Resources.resources
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.csproj.GenerateResource.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.csproj.CoreCompileInputs.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.csproj.CopyComplete
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.exe
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\AdvancedWave\AdvancedWave\WavPlayer\obj\Debug\WavPlayer.pdb

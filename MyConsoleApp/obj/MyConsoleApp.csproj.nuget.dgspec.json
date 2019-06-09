@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\project\\EY\\testApp26April2019\\khanzaid2490 (3)\\MyConsoleApp\\MyConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\project\\EY\\testApp26April2019\\khanzaid2490 (3)\\MyConsoleApp\\MyConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\project\\EY\\testApp26April2019\\khanzaid2490 (3)\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectName": "MyConsoleApp",
+        "projectPath": "D:\\project\\EY\\testApp26April2019\\khanzaid2490 (3)\\MyConsoleApp\\MyConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\khanz\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\EY\\testApp26April2019\\khanzaid2490 (3)\\MyConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\khanz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Google.Cloud.Speech.V1": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

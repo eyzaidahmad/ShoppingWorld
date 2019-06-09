@@ -1,0 +1,11 @@
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.deps.json
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.runtimeconfig.json
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.runtimeconfig.dev.json
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.pdb
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.csprojAssemblyReference.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.AssemblyInfoInputs.cache
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.AssemblyInfo.cs
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.dll
+D:\project\EY\testApp26April2019\khanzaid2490 (3)\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.pdb

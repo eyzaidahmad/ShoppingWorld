@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Google.LongRunning</id>
+    <version>1.0.0</version>
+    <authors>Google Inc.</authors>
+    <owners>Google Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/GoogleCloudPlatform/google-cloud-dotnet</projectUrl>
+    <iconUrl>https://cloud.google.com/images/gcp-icon-64x64.png</iconUrl>
+    <description>gRPC services for the Google Long Running Operations API. This library is typically used as a dependency for other API client libraries.</description>
+    <copyright>Copyright 2017 Google Inc.</copyright>
+    <tags>LongRunning Google Cloud</tags>
+    <repository type="git" url="https://github.com/GoogleCloudPlatform/google-cloud-dotnet" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Google.Api.Gax.Grpc" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Protobuf" version="3.4.1" exclude="Build,Analyzers" />
+        <dependency id="Grpc.Core" version="1.6.1" include="All" />
+      </group>
+      <group targetFramework=".NETStandard1.5">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Google.Api.Gax.Grpc" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Protobuf" version="3.4.1" exclude="Build,Analyzers" />
+        <dependency id="Grpc.Core" version="1.6.1" include="All" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
